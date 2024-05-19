@@ -17,10 +17,10 @@ export default function RootLayout({
       <html lang="en">
         <body>
           
-         <div className='h-screen justify-center  items-center flex '>
+        
           
          {children}
-         </div>
+    
         </body>
       </html>
     </ClerkProvider>
